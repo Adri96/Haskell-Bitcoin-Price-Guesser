@@ -1,7 +1,7 @@
 # Haskell-Bitcoin-Price-Guesser
 A Haskell-written guesser of the price of the bitcoin, based on Lagrange Polynomial. 
 The results that it gives are a little crazy.
-I'm not responsible on any decision you make based on 
+I'm not responsible of any decision you make based on 
 
 # USAGE
 
