@@ -16,3 +16,7 @@ I'm not responsible of any decision you make based on it.
 ## Support
 
 You can write me at adriamunuera@me.com if you want to share some thoughts about this program or you have any kind of question :smile:
+
+## License
+
+Do whatever you want with this. I don't really care. Just, if you use it, leave me a star on the project.
