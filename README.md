@@ -15,4 +15,4 @@ I'm not responsible of any decision you make based on it.
 
 ## SUPPORT
 
-You can write me at [my e-mail] (adriamunuera@me.com) if you want to share some thoughts about this program or you have any kind of question :smile:
+You can write me at adriamunuera@me.com if you want to share some thoughts about this program or you have any kind of question :smile:
