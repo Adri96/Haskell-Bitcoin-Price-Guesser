@@ -11,7 +11,7 @@ I'm not responsible of any decision you make based on it.
 2. Run!
 3. Get the parsed data, and in the ghci console, write:
   - ``` let values = {all the data parsed and put on an array, shown on (2)} ```
-  - ``` evalPoly (iterativePolyFit values) N ``` where ``` N ``` is the day (1, 2,..., 453, 454 ...) you want to get the price guess.
+  - ``` evalPoly (iterativePolyFit values) N ``` where ``` N ``` is the day (1, 2,..., 453, 454, ...) you want to get the price guess.
 
 ## Support
 
