@@ -19,4 +19,4 @@ You can write me at adriamunuera@me.com if you want to share some thoughts about
 
 ## License
 
-Do whatever you want with this. I don't really care. Just, if you use it, leave me a star on the project.
+You are free to use this code in any way you want.
